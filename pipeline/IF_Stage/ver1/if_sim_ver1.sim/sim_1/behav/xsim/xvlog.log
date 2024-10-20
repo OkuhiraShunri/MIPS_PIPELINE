@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/OkuhiraShunri/Documents/verilog/MIPS/pipeline/IF_Stage/ver1/HDL/IF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/OkuhiraShunri/Documents/verilog/MIPS/pipeline/IF_Stage/ver1/HDL/IF_SIM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF_SIM

@@ -1,0 +1,18 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot IF_SIM_behav xil_defaultlib.IF_SIM xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 33 for port 'INST' [C:/Users/OkuhiraShunri/Documents/verilog/MIPS/pipeline/IF_Stage/ver1/HDL/IF_SIM.v:7]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/OkuhiraShunri/Documents/verilog/MIPS/pipeline/IF_Stage/ver1/HDL/IF.v" Line 1. Module IF doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/OkuhiraShunri/Documents/verilog/MIPS/pipeline/IF_Stage/ver1/HDL/IF.v" Line 1. Module IF doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.IF
+Compiling module xil_defaultlib.IF_SIM
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot IF_SIM_behav
